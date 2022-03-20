@@ -1,6 +1,6 @@
 package strategy;
 
-import weapon.Weapon;
+import strategy.weapon.Weapon;
 
 public class GameCharacter {
 	

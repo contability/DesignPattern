@@ -1,8 +1,8 @@
 package strategy;
 
-import weapon.Axe;
-import weapon.Knife;
-import weapon.Sword;
+import strategy.weapon.Axe;
+import strategy.weapon.Knife;
+import strategy.weapon.Sword;
 
 public class Main {
 	

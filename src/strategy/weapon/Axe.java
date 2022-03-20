@@ -1,4 +1,4 @@
-package weapon;
+package strategy.weapon;
 
 public class Axe implements Weapon{
 
